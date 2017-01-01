@@ -26,3 +26,6 @@ class Test(unittest.TestCase):
             'http://h4k0bu5.hatu.ga/bower_components/polymer/polymer.html',
             'http://h4k0bu5.hatu.ga/bower_components/vaadin-combo-box/vaadin-combo-box.html'
         })
+
+if __name__ == '__main__':
+    unittest.main()
