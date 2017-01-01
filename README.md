@@ -1,4 +1,6 @@
 # polymer-tree
+[![Build Status](https://travis-ci.org/uehara1414/polymer-tree.svg?branch=master)](https://travis-ci.org/uehara1414/polymer-tree)
+
 Print the custom element tree of a website which built with Polymer.
 
 ## Installation
